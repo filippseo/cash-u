@@ -1,3 +1,4 @@
+Займы по крупным городам России:
 <ul>
 <li><a href="https://cash-u.com/irkutsk">займы в Иркутске</a></li>
 <li><a href="https://cash-u.com/krasnoyarsk">займы в Красноярске</a></li>
@@ -19,4 +20,11 @@
 <li><a href="https://cash-u.com/ekaterinburg">займы в Екатеринбурге</a></li>
 <li><a href="https://cash-u.com/sankt-peterburg">займы в СПб</a></li>
 </ul>
-
+Займы по курортным городам России:
+<ul>
+<li><a href="https://cash-u.com/yalta">займы в Ялте</a></li>
+<li><a href="https://cash-u.com/feodosiya">займы в Феодоссии</a></li>
+<li><a href="https://cash-u.com/sevastopol">займы в Севастополе</a></li>
+<li><a href="https://cash-u.com/anapa">займы в Анапе</a></li>
+<li><a href="https://cash-u.com/sochi">займы в Сочи</a></li>
+</ul>
